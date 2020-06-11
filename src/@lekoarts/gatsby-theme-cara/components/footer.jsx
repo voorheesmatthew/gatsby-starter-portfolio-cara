@@ -8,7 +8,7 @@ const Footer = () => {
     //     setColorMode(isDark ? `light` : `dark`)
     // }
 
-    return (
+    return 
         // <Box as="footer" variant="footer">
         //     <button
         //         sx={{ variant: `buttons.toggle`, fontWeight: `semibold`, display: `block`, mx: `auto`, mb: 3 }}
@@ -19,7 +19,6 @@ const Footer = () => {
         //         {isDark ? `Light` : `Dark`}
         //     </button>
         // </Box>
-    )
 }
 
 export default Footer
